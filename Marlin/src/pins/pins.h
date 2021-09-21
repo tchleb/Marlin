@@ -187,6 +187,8 @@
   #include "ramps/pins_RAMPS_S_12.h"            // ATmega2560                             env:mega2560
 #elif MB(LONGER3D_LK1_PRO, LONGER3D_LKx_PRO)
   #include "ramps/pins_LONGER3D_LKx_PRO.h"      // ATmega2560                             env:mega2560
+#elif MB(TRIGORILLA_CHIRON)
+  #include "ramps/pins_TRIGORILLA_CHIRON.h"     // ATmega2560                             env:mega2560  
 
 //
 // RAMBo and derivatives

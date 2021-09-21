@@ -115,6 +115,7 @@
 #define BOARD_RAMPS_S_12_EFFB         1159  // Ramps S 1.2 by Sakul.cz (Power outputs: Hotend, Fan0, Fan1, Bed)
 #define BOARD_LONGER3D_LK1_PRO        1160  // Longer LK1 PRO / Alfawise U20 Pro (PRO version)
 #define BOARD_LONGER3D_LKx_PRO        1161  // Longer LKx PRO / Alfawise Uxx Pro (PRO version)
+#define BOARD_TRIGORILLA_CHIRON       1162  // TriGorilla Anycubic version 1.4 based on RAMPS EFB for Chiron
 
 //
 // RAMBo and derivatives
