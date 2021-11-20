@@ -260,6 +260,7 @@
     #define BTN_EN2                  EXP1_06_PIN
     #define BTN_ENC                  EXP1_09_PIN  // (58) open-drain
 
+	  #define BEEPER_PIN               EXP1_10_PIN   // (37) not 5V tolerant 
     #define LCD_PINS_ENABLE          EXP1_03_PIN
     #define LCD_PINS_D4              EXP1_05_PIN
 
